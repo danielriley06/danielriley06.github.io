@@ -1,0 +1,21 @@
+# Site settings
+title: A Series of Tubes
+header-img: img/home-bg.png
+email: driley3@gmail.com
+copyright_name: danielriley06
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about learning to create things on the internets.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  danielriley06
+learn_profile: danielriley06
+email_username: driley3@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
