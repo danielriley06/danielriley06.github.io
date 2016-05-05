@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  **Apartment Hunter CLI Scraper Gem**
-date:   2016-05-05 15:19:14 +0000
+title:  Apartment Hunter CLI Scraper Gem
+date:   2016-05-05 16:57:23 +0000
 ---
 
 
