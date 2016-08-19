@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DataTables.js and Rails: A love story"
-date:   2016-08-19 19:55:50 +0000
+date:   2016-08-19 15:55:50 -0400
 ---
 
 
